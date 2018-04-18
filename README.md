@@ -1,5 +1,5 @@
 # finally-206-project-
-For my final project I have decided to use Yelp and Google Maps. In order to run my program, you must open my finalproject.py and finalproject_test.py files, and the 4 html files found in the template folder. The code to run my project is inside finalproject.py, my test cases are in finalproject_test.py, and the code for the websites that are needed to open the map from google maps are in the 4 html files in the templates folder.
+For my final project I have decided to use Yelp and Google Maps. In order to run my program, you must open my finalproject.py and finalproject_test.py files, and the 4 html files found in the templates folder. The code to run my project is inside finalproject.py, my test cases are in finalproject_test.py, and the code for the websites that are needed to open the map from google maps are in the 4 html files in the templates folder.
 
 Once you have those files open, run finalproject.py in terminal. You will be asked to enter a search term. In this prompt, you can enter anything you desire. Examples include but are not limited to: bars, mexican, italian food, food, etc. any restaurant or bar type you are looking for you can enter here.
 
